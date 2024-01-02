@@ -15,7 +15,7 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
-          <li className="sidebarListItem">Amiguri</li>
+          <li className="sidebarListItem">Amigurumi</li>
           <li className="sidebarListItem">Coasters</li>
           <li className="sidebarListItem">Clothing</li>
           <li className="sidebarListItem">Bags</li>
